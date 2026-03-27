@@ -1,6 +1,6 @@
 # Alba Tull
 
-**Extremophile Genomics Researcher · Carnegie Mellon University · Kaplow Lab**
+**Extremophile Genomics Researcher · Carnegie Mellon University · **
 
 I build open-access genomic databases for organisms that thrive in Earth's most extreme environments — from glacial ice cores and deep subsurface rock to hypersaline lakes and volcanic hot springs. My work focuses on making extremophile sequencing data discoverable, searchable, and ready for metagenomic analysis.
 
